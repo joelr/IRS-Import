@@ -1,0 +1,46 @@
+charities:
+  - id: 1
+    name: MASSACHUSETTS MODERATORS
+    active: false
+    tax_number: "010011694"
+  - id: 2
+    name: PTA FLORIDA CONGRESS
+    active: true
+    tax_number: "002346638"
+  - id: 3
+    name: MS WHEELCHAIR NEBRASKA INC
+    active: false
+    tax_number: "005633606"
+  - id: 4
+    name: HANOVER SOCCER CLUB INC
+    active: true
+    tax_number: "010015091"
+  - id: 5
+    name: WEBB RIVER VALLEY SPORTSMENS CLUB
+    active: true
+    tax_number: "010120015"
+  - id: 6
+    name: THE PUMPKIN PATCH FOR KIDS
+    active: true
+    tax_number: "010160176"
+  - id: 7
+    name: MIDDLESEX BARBARIANS R F C INC
+    active: true
+    tax_number: "001037180"
+  - id: 8
+    name: BEARNSTOW
+    active: false
+    tax_number: "010271792"
+  - id: 9
+    name: COUNCIL OF CHURCHES OF THE ISLANDS
+    active: true
+    tax_number: "010276005"
+pages:
+  - charity_id: 1
+    name: Sample page for MASSACHUSETTS MODERATORS
+  - charity_id: 2
+    name: Sample page for PTA FLORIDA CONGRESS
+  - charity_id: 5
+    name: Sample page for WEBB RIVER VALLEY SPORTSMENS CLUB
+  - charity_id: 4
+    name: Sample page for HANOVER SOCCER CLUB INC
