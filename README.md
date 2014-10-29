@@ -39,6 +39,7 @@ This will drop and reseed the local database with test data, from seeds.yml
 Manually confirmed charities to make inactive:
   - PTA FLORIDA CONGRESS
   - WEBB RIVER VALLEY SPORTSMENS CLUB
+
 Manually confirmed charities to make active:
   - MASSACHUSETTS MODERATORS
   - BEARNSTOW
