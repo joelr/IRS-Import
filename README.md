@@ -54,6 +54,7 @@ Automatically marked as inactive:
 
 - Speed of processing, processing ~600k records and counting not ideal
   - eg. Optimize to only check ```Exemption Reinstatement Date``` since last import
+- NO OP option to allow for emailing a list without updating anything.
 - Attaching of a CSV of rows for each list
   - CSV should reference both the IRS data and the DB data
 - Include summary data
