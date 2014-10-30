@@ -50,7 +50,7 @@ Automatically marked as inactive:
 
 
 
-*Nice to haves:*
+**Nice to haves:**
 
 - Speed of processing, processing ~600k records and counting not ideal
   - eg. Optimize to only check ```Exemption Reinstatement Date``` since last import
