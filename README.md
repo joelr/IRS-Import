@@ -53,3 +53,11 @@ Automatically marked as inactive:
 *Nice to haves:*
 
 - Speed of processing, processing ~600k records and counting not ideal
+  - eg. Optimize to only check ```Exemption Reinstatement Date``` since last import
+- Attaching of a CSV of rows for each list
+  - CSV should reference both the IRS data and the DB data
+- Include summary data
+  - Include total records processed
+  - Total records ignored
+  - Total records added to each list
+  - Job execution time
